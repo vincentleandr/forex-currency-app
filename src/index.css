@@ -9,3 +9,7 @@ h2,
 h3 {
   margin-top: 0;
 }
+
+span {
+  line-height: 1.5;
+}
