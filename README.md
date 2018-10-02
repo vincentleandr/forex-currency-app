@@ -1,8 +1,5 @@
 # forex-currency-app
 
-To see it live, click [here!](http://forex-currency-app.surge.sh/)
-
-
 ## How to run it via Docker:
 
 You can pull from the Dockerhub:
