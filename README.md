@@ -20,12 +20,3 @@ docker build -t vincentleander/forexapp github.com/vincentleandr/forex-currency-
 ```
 docker run --name forexapp -d -p 3000:3000 vincentleander/forexapp:latest
 ```
-
-
-
-## Alternative way to run it:
-
-To run it locally:
-1. Clone
-2. npm install
-3. npm start
